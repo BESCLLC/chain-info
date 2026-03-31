@@ -48,5 +48,3 @@ After installing Besu, download the required network files:
 ```bash
 wget https://raw.githubusercontent.com/BESCLLC/chain-info/main/genesis.json
 wget https://raw.githubusercontent.com/BESCLLC/chain-info/main/config.toml
-wget https://raw.githubusercontent.com/BESCLLC/chain-info/main/static-nodes.json
-```
