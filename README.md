@@ -1,4 +1,4 @@
-# 🚀 BESC Hyperchain Node Setup
+# BESC Hyperchain Node Setup
 
 Run your own **BESC Hyperchain RPC node** using Hyperledger Besu.
 
